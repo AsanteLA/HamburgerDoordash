@@ -1,3 +1,12 @@
+#AGroup 12
+#Group Work 1
+#Hamburger Doordash
+#Caleb Kamalu
+#Omar Aburouss
+#Asante Laryea-Akrong
+#Ryan Hafen 
+#Logan Stone
+
 import random
 
 # Create an Order class
