@@ -7,6 +7,8 @@
 #Ryan Hafen 
 #Logan Stone
 
+
+#Import Random
 import random
 
 # Create an Order class
