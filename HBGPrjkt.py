@@ -7,7 +7,6 @@
 #Ryan Hafen 
 #Logan Stone
 
-
 #Import Random
 import random
 
